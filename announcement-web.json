@@ -14,7 +14,6 @@
       "created": "13/02/2026",
       "updated": "13/02/2026",
       "dismissible": true,
-
       "starts_at": null,
       "expires_at": null
     },
@@ -31,8 +30,8 @@
       "cta_label": "Open",
       "created": "13/02/2026",
       "dismissible": true,
-      "starts_at": "14/02/2026",
-      "expires_at": "14/02/2026"
+      "starts_at": null,
+      "expires_at": null
     }
   ]
 }
