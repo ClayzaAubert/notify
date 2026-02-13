@@ -21,7 +21,7 @@
     {
       "id": "maintenance",
       "version": 2,
-      "active": false,
+      "active": true,
       "priority": "high",
       "title": "Maintenance",
       "sub_title": "02:00–02:30 WIB",
