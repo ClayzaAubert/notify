@@ -1,14 +1,38 @@
 {
-  "id": "announce-2026-02-13-01",
-  "active": true,
-  "title": "Announcement",
-  "sub_title": "Update Maelyn API",
-  "desc": "Kami baru saja menambahkan perbaikan performa & pembaruan docs. Klik untuk membaca detailnya.",
-  "image": "https://files.catbox.moe/inwwb0.webp",
-  "href": "https://docs.maelyn.eu/",
-  "created": "13/02/2026",
-  "updated": "13/02/2026",
-  "priority": "high",
-  "dismissible": true,
-  "cta_label": "Learn more"
+  "items": [
+    {
+      "id": "maelyn-web-announce",
+      "version": 1,
+      "active": true,
+      "priority": "normal",
+      "title": "Announcement",
+      "sub_title": "Update Maelyn API",
+      "desc": "Kami merilis update baru. Klik untuk detail.",
+      "image": "https://files.catbox.moe/inwwb0.webp",
+      "href": "https://docs.maelyn.eu/",
+      "cta_label": "Learn more",
+      "created": "13/02/2026",
+      "updated": "13/02/2026",
+      "dismissible": true,
+
+      "starts_at": null,
+      "expires_at": null
+    },
+    {
+      "id": "maintenance",
+      "version": 2,
+      "active": false,
+      "priority": "high",
+      "title": "Maintenance",
+      "sub_title": "02:00–02:30 WIB",
+      "desc": "Beberapa endpoint mungkin tidak stabil.",
+      "image": null,
+      "href": null,
+      "cta_label": "Open",
+      "created": "13/02/2026",
+      "dismissible": true,
+      "starts_at": "14/02/2026",
+      "expires_at": "14/02/2026"
+    }
+  ]
 }
