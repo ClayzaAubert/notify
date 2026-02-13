@@ -1,0 +1,14 @@
+{
+  "id": "announce-2026-02-13-01",
+  "active": true,
+  "title": "Announcement",
+  "sub_title": "Update Maelyn API",
+  "desc": "Kami baru saja menambahkan perbaikan performa & pembaruan docs. Klik untuk membaca detailnya.",
+  "image": "https://files.catbox.moe/inwwb0.webp",
+  "href": "https://docs.maelyn.eu/",
+  "created": "13/02/2026",
+  "updated": "13/02/2026",
+  "priority": "normal",
+  "dismissible": true,
+  "cta_label": "Learn more"
+}
