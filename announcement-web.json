@@ -17,21 +17,5 @@
       "starts_at": null,
       "expires_at": null
     },
-    {
-      "id": "maintenance",
-      "version": 2,
-      "active": true,
-      "priority": "high",
-      "title": "Maintenance",
-      "sub_title": "02:00–02:30 WIB",
-      "desc": "Beberapa endpoint mungkin tidak stabil.",
-      "image": null,
-      "href": null,
-      "cta_label": "Open",
-      "created": "13/02/2026",
-      "dismissible": true,
-      "starts_at": null,
-      "expires_at": null
-    }
   ]
 }
