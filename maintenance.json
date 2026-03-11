@@ -6,11 +6,5 @@
     "started_at": "12/03/2026 18:00",
     "estimated_end": "12/03/2026 20:00",
     "updated_at": "12/03/2026"
-  },
-  "enabled": true,
-  "reason": "",
-  "message": "",
-  "started_at": null,
-  "estimated_end": null,
-  "updated_at": "12/03/2026"
+  }
 }
