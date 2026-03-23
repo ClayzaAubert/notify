@@ -2,17 +2,17 @@
   "items": [
     {
       "id": "maelyn-web-announce",
-      "version": 3,
+      "version": 4,
       "active": true,
       "priority": "normal",
       "title": "WELCOME TO MAELYN API:ReRise",
       "sub_title": "",
-      "desc": "Saat Ini kami sedang dalam tahap beta OPEN BETA, sampai tanggal 18 Maret 2026,",
+      "desc": "Selamat datang kembali, Maelyners!\nInilah wajah baru kami. Terima kasih atas dukungan kalian selama 3 tahun ini.",
       "image": "",
       "href": "",
       "cta_label": "Learn more",
       "created": "13/02/2026",
-      "updated": "13/03/2026",
+      "updated": "23/03/2026",
       "dismissible": true,
       "starts_at": null,
       "expires_at": null
