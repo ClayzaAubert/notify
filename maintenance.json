@@ -1,10 +1,10 @@
 {
   "maintenance": {
-    "enabled": false,
+    "enabled": true,
     "reason": "Server Upgrade",
     "message": "Website sedang dalam maintenance. Silakan coba lagi nanti.",
-    "started_at": "",
-    "estimated_end": "",
-    "updated_at": ""
+    "started_at": null,
+    "estimated_end": null,
+    "updated_at": "09/05/2026"
   }
 }
